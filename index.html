@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="自动采集公开披露数据的基金三周期持仓透视" />
+  <title>基金三周期持仓透视</title>
+  <style>:root{--bg:#070a0f;--panel:#0d121a;--line:#202936;--muted:#7d899a;--text:#edf2f8;--green:#33d6a6;--blue:#3aa9ff;--amber:#f4bc53;--red:#fa6e7b}*{box-sizing:border-box}html{background:var(--bg);color-scheme:dark}body{margin:0;background:radial-gradient(circle at 70% 0,rgba(42,93,120,.14),transparent 34rem),var(--bg);color:var(--text);font-family:Arial,"PingFang SC","Microsoft YaHei",sans-serif}main{min-height:100vh;padding:0 28px}header{height:76px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #ffffff14}.brand{display:flex;align-items:center;gap:13px}.brand small{display:block;color:var(--green);font-size:9px;letter-spacing:.17em;margin-bottom:3px}h1{font-size:17px;margin:0;letter-spacing:.06em}.logo{width:31px;height:31px;display:flex;align-items:flex-end;gap:3px;padding:6px;border-radius:8px;background:#101b22;border:1px solid #2a4146}.logo i{width:4px;background:var(--green);border-radius:3px 3px 1px 1px}.logo i:nth-child(1){height:7px}.logo i:nth-child(2){height:12px}.logo i:nth-child(3){height:18px}.live{font-size:11px;color:#aab6c5}.live i{display:inline-block;width:7px;height:7px;margin-right:9px;border-radius:50%;background:var(--green);box-shadow:0 0 0 6px #33d6a618}.hero{min-height:258px;display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:7vw;padding:38px 1.5vw 28px}.tag{font-size:10px;color:var(--green);letter-spacing:.08em;margin-bottom:16px}.hero h2{font-size:clamp(30px,3.2vw,50px);line-height:1.13;letter-spacing:-.035em;margin:0 0 14px}.hero h2 em{font-style:normal;color:var(--green)}.hero p{color:#8f9cad;line-height:1.7;font-size:13px;max-width:620px}.stats{display:grid;grid-template-columns:1fr 1fr;gap:10px}.stats article{padding:16px 18px;border:1px solid var(--line);border-radius:10px;background:linear-gradient(145deg,#101722ee,#0a0e14ee);min-height:94px}.stats span,.stats small{display:block;color:var(--muted);font-size:10px}.stats strong{display:block;margin:7px 0 4px;font-size:21px}.stats .green{color:var(--green)}.toolbar{display:flex;align-items:center;gap:12px;padding:12px;border:1px solid var(--line);border-radius:10px 10px 0 0;background:#0d121ae8;color:var(--muted);font-size:11px}.toolbar label{display:flex;align-items:center;gap:8px}.search{height:36px;flex:1;max-width:420px;padding:0 10px;border:1px solid #293444;border-radius:7px;background:#090d13}.search input{flex:1;border:0;outline:0;background:transparent;color:var(--text)}select,.toolbar button{height:36px;border:1px solid #293444;border-radius:7px;background:#090d13;color:#cbd4df;padding:0 11px}.toolbar button{margin-left:auto;color:var(--green);cursor:pointer}.periods{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border:1px solid var(--line);border-top:0;border-radius:0 0 12px 12px;overflow:hidden}.card{min-width:0;background:#090d13d1;border-right:1px solid var(--line)}.card:last-child{border-right:0}.cardhead{height:76px;display:flex;align-items:center;padding:14px 15px;border-bottom:1px solid var(--line);background:linear-gradient(#141b26e6,#0c1118e6)}.periodicon{display:grid;place-items:center;width:35px;height:35px;margin-right:10px;border:1px solid currentColor;border-radius:8px;color:var(--green);background:#33d6a614;font:700 12px monospace}.blue .periodicon{color:var(--blue);background:#3aa9ff14}.amber .periodicon{color:var(--amber);background:#f4bc5314}.cardhead h3{margin:0 0 5px;font-size:14px}.cardhead p{margin:0;color:var(--muted);font-size:9px}.cardhead button{margin-left:auto;border:1px solid #293545;background:#0a0f16;color:#7f8fa4;border-radius:6px;padding:6px 8px;font:10px monospace;cursor:pointer}.thead,.row{display:grid;grid-template-columns:25px minmax(130px,1fr) 75px 48px;align-items:center;padding:0 12px}.thead{height:34px;color:#596575;font:9px monospace;border-bottom:1px solid #1a222d}.thead span:nth-child(n+3){text-align:right}.row{min-height:54px;padding-top:6px;padding-bottom:6px;border-bottom:1px solid #202936a6}.row:hover{background:#ffffff07}.rank{color:#5f6b7a;font:10px monospace}.rank.top{color:var(--amber)}.stock{min-width:0;padding-right:8px}.stock>div{display:flex;align-items:center}.stock strong{font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.stock code{margin-left:auto;color:#5e6b7a;font-size:8px}.stock small{display:block;color:#647181;font-size:8px;margin-top:5px}.stock em{font-style:normal;margin-left:5px}.up{color:var(--green)}.down{color:var(--red)}.weight{text-align:right}.weight>b{font:10px monospace}.weight i{display:block;width:54px;height:2px;margin:6px 0 0 auto;background:#1d2732}.weight u{display:block;height:100%;background:var(--green)}.blue .weight u{background:var(--blue)}.amber .weight u{background:var(--amber)}.count{text-align:right;color:#9ba7b5;font:10px monospace}.count small{margin-left:2px;color:#53606f;font-size:8px}.foot{height:40px;display:flex;align-items:center;justify-content:space-between;padding:0 12px;color:#536171;font-size:8px}.empty,.loading{min-height:300px;display:grid;place-items:center;color:var(--muted);font-size:12px}.loading{grid-column:1/-1}.error{color:var(--red)}footer{min-height:70px;display:flex;align-items:center;justify-content:space-between;color:#536070;font-size:9px}@media(max-width:1080px){main{padding:0 16px}.hero{grid-template-columns:1fr}.stats{grid-template-columns:repeat(4,1fr)}.periods{grid-template-columns:1fr}.card{border-right:0;border-bottom:1px solid var(--line)}}@media(max-width:720px){main{padding:0 10px}header{height:auto;padding:14px 2px}.brand small,.live{display:none}.hero{padding:30px 4px 22px}.hero h2{font-size:34px}.stats{grid-template-columns:1fr 1fr}.toolbar{flex-wrap:wrap}.search{max-width:none;flex-basis:100%}.toolbar button{margin-left:0}.thead,.row{grid-template-columns:25px minmax(120px,1fr) 70px 40px}footer{flex-direction:column;align-items:flex-start;justify-content:center;gap:7px}}
+</style>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="brand"><div class="logo"><i></i><i></i><i></i></div><div><small>FUND POSITION INTELLIGENCE</small><h1>基金三周期持仓透视</h1></div></div>
+      <div class="live"><i></i><span id="status">正在载入公开披露数据</span></div>
+    </header>
+    <section class="hero">
+      <div><div class="tag">LIVE · 公开披露自动同步</div><h2>一屏看清资金的<br><em>短、中、长线共识</em></h2><p>自动采集基金公开持仓，聚合个股权重与基金覆盖度，识别增配方向和核心仓位。</p></div>
+      <div class="stats"><article><span>样本基金</span><strong id="funds">--</strong><small>权益基金池</small></article><article><span>持仓快照</span><strong id="snapshots">--</strong><small>公开披露记录</small></article><article><span>最新披露</span><strong id="disclosure">--</strong><small>报告期末</small></article><article><span>数据状态</span><strong class="green">LIVE</strong><small id="updated">等待更新</small></article></div>
+    </section>
+    <section class="toolbar"><label class="search">⌕ <input id="query" placeholder="搜索股票名称或代码"></label><label>行业 <select id="sector"><option>全部行业</option></select></label><label>排序 <select id="sort"><option value="weight">按权重</option><option value="funds">按基金数</option><option value="change">按增减仓</option></select></label><button id="refresh">立即刷新</button></section>
+    <section id="periods" class="periods"><div class="loading">正在生成三周期持仓透视…</div></section>
+    <footer><span>数据来自公开披露页面，完整持仓按定期报告更新，并非实时交易流水。</span><span>仅供研究，不构成投资建议</span></footer>
+  </main>
+  <script>const state = { payload: null, query: "", sector: "全部行业", sort: "weight" };
+const fmt = new Intl.NumberFormat("zh-CN", { maximumFractionDigits: 2 });
+
+async function load() {
+  document.querySelector("#status").textContent = "正在同步公开披露数据";
+  try {
+    const response = await fetch(`data.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error("数据文件暂不可用");
+    state.payload = await response.json();
+    hydrate(); render();
+  } catch (error) {
+    document.querySelector("#status").textContent = error.message;
+    document.querySelector("#periods").innerHTML = `<div class="loading error">暂时无法取得数据，请稍后刷新</div>`;
+  }
+}
+
+function hydrate() {
+  const p = state.payload;
+  document.querySelector("#status").textContent = "公开数据已同步";
+  document.querySelector("#funds").textContent = p.coverage.funds;
+  document.querySelector("#snapshots").textContent = fmt.format(p.coverage.snapshots);
+  document.querySelector("#disclosure").textContent = p.latestDisclosure;
+  document.querySelector("#updated").textContent = new Date(p.fetchedAt).toLocaleString("zh-CN", { hour12: false });
+  const sectors = [...new Set(p.periods.flatMap(x => x.data.map(y => y.sector)))].sort();
+  document.querySelector("#sector").innerHTML = ["全部行业", ...sectors].map(x => `<option>${esc(x)}</option>`).join("");
+}
+
+function render() {
+  const colors = ["green", "blue", "amber"];
+  document.querySelector("#periods").innerHTML = state.payload.periods.map((period, pi) => {
+    const rows = period.data.filter(item => `${item.code}${item.name}`.toLowerCase().includes(state.query.toLowerCase()) && (state.sector === "全部行业" || item.sector === state.sector)).sort((a,b) => b[state.sort]-a[state.sort]);
+    const max = Math.max(1, ...rows.map(x => x.weight));
+    return `<article class="card ${colors[pi]}"><div class="cardhead"><div class="periodicon">${["W","M","Y"][pi]}</div><div><h3>${period.label}</h3><p>${period.subtitle} · ${rows.length} 个标的</p></div><button onclick="downloadCsv(${pi})">↓ CSV</button></div><div class="thead"><span>#</span><span>标的 / 行业</span><span>权重</span><span>基金</span></div><div class="list">${rows.length ? rows.map((item,i) => `<div class="row"><b class="rank ${i<3?'top':''}">${i+1}</b><div class="stock"><div><strong>${esc(item.name)}</strong><code>${item.code}</code></div><small>${esc(item.sector)} <em class="${item.change>=0?'up':'down'}">${item.change>=0?'+':''}${item.change.toFixed(2)}</em></small></div><div class="weight"><b>${fmt.format(item.weight)}</b><i><u style="width:${item.weight/max*100}%"></u></i></div><div class="count">${item.funds}<small>支</small></div></div>`).join("") : '<div class="empty">没有匹配的标的</div>'}</div><div class="foot">每小时自动同步 <span>${state.payload.latestDisclosure} 披露快照</span></div></article>`;
+  }).join("");
+}
+
+function esc(value) { return String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function downloadCsv(index) { const p=state.payload.periods[index], rows=p.data.map((x,i)=>[i+1,x.code,x.name,x.sector,x.weight,x.funds,x.change].join(',')); const b=new Blob(['\ufeff排名,代码,名称,行业,权重,基金数,增减仓\n'+rows.join('\n')],{type:'text/csv'}); const a=document.createElement('a'); a.href=URL.createObjectURL(b); a.download=`基金持仓透视-${p.label}.csv`; a.click(); URL.revokeObjectURL(a.href); }
+document.querySelector("#query").addEventListener("input", e => { state.query=e.target.value; render(); });
+document.querySelector("#sector").addEventListener("change", e => { state.sector=e.target.value; render(); });
+document.querySelector("#sort").addEventListener("change", e => { state.sort=e.target.value; render(); });
+document.querySelector("#refresh").addEventListener("click", load);
+load(); setInterval(load, 5*60*1000);
+</script>
+</body>
+</html>
