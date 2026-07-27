@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-07-26T16:32:07.776Z",
+  "fetchedAt": "2026-07-27T10:52:32.382Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 40,
-    "snapshots": 1112
+    "successfulRequests": 39,
+    "snapshots": 1072
   },
   "periods": [
     {
@@ -477,6 +477,14 @@
           "sector": "未分类"
         },
         {
+          "code": "002304",
+          "name": "洋河股份",
+          "weight": 7.88,
+          "funds": 1,
+          "change": 7.88,
+          "sector": "未分类"
+        },
+        {
           "code": "000725",
           "name": "京东方A",
           "weight": 7.15,
@@ -485,27 +493,19 @@
           "sector": "未分类"
         },
         {
+          "code": "600519",
+          "name": "贵州茅台",
+          "weight": 54.16,
+          "funds": 6,
+          "change": 6.44,
+          "sector": "未分类"
+        },
+        {
           "code": "002602",
           "name": "世纪华通",
           "weight": 6.32,
           "funds": 1,
           "change": 6.32,
-          "sector": "未分类"
-        },
-        {
-          "code": "000921",
-          "name": "海信家电",
-          "weight": 6.24,
-          "funds": 1,
-          "change": 6.24,
-          "sector": "未分类"
-        },
-        {
-          "code": "002032",
-          "name": "苏泊尔",
-          "weight": 6.15,
-          "funds": 1,
-          "change": 6.15,
           "sector": "未分类"
         }
       ]
