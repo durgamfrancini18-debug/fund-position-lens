@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-07-30T09:43:42.907Z",
+  "fetchedAt": "2026-07-31T15:49:20.929Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
@@ -76,7 +76,7 @@
           "weight": 30.46,
           "funds": 4,
           "change": 0,
-          "sector": "白酒Ⅱ"
+          "sector": "未分类"
         },
         {
           "code": "688012",
@@ -243,7 +243,7 @@
           "weight": 30.46,
           "funds": 4,
           "change": 0,
-          "sector": "白酒Ⅱ"
+          "sector": "未分类"
         },
         {
           "code": "688012",
@@ -426,7 +426,7 @@
           "weight": 9.37,
           "funds": 2,
           "change": 9.37,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "601138",
