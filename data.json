@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-08-04T16:22:54.550Z",
+  "fetchedAt": "2026-08-05T08:02:44.003Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 40,
-    "snapshots": 1112
+    "successfulRequests": 39,
+    "snapshots": 1072
   },
   "periods": [
     {
@@ -20,7 +20,7 @@
           "weight": 55.14,
           "funds": 9,
           "change": 0,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "600519",
@@ -84,7 +84,7 @@
           "weight": 29.45,
           "funds": 4,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "000568",
@@ -108,7 +108,7 @@
           "weight": 23.25,
           "funds": 4,
           "change": 0,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "002371",
@@ -187,7 +187,7 @@
           "weight": 55.14,
           "funds": 9,
           "change": 0,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "600519",
@@ -251,7 +251,7 @@
           "weight": 29.45,
           "funds": 4,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "000568",
@@ -275,7 +275,7 @@
           "weight": 23.25,
           "funds": 4,
           "change": 0,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "002371",
@@ -362,7 +362,7 @@
           "weight": 29.45,
           "funds": 4,
           "change": 24.29,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "688249",
@@ -378,7 +378,7 @@
           "weight": 55.14,
           "funds": 9,
           "change": 13.46,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "688041",
@@ -394,7 +394,7 @@
           "weight": 23.25,
           "funds": 4,
           "change": 10.99,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "300661",
@@ -421,12 +421,20 @@
           "sector": "未分类"
         },
         {
+          "code": "000333",
+          "name": "美的集团",
+          "weight": 44.96,
+          "funds": 6,
+          "change": 10.21,
+          "sector": "未分类"
+        },
+        {
           "code": "688521",
           "name": "芯原股份",
           "weight": 9.37,
           "funds": 2,
           "change": 9.37,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "601138",
@@ -466,7 +474,7 @@
           "weight": 7.98,
           "funds": 1,
           "change": 7.98,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "002594",
@@ -474,6 +482,14 @@
           "weight": 7.96,
           "funds": 1,
           "change": 7.96,
+          "sector": "未分类"
+        },
+        {
+          "code": "600660",
+          "name": "福耀玻璃",
+          "weight": 7.86,
+          "funds": 1,
+          "change": 7.86,
           "sector": "未分类"
         },
         {
@@ -490,22 +506,6 @@
           "weight": 6.32,
           "funds": 1,
           "change": 6.32,
-          "sector": "未分类"
-        },
-        {
-          "code": "000921",
-          "name": "海信家电",
-          "weight": 6.24,
-          "funds": 1,
-          "change": 6.24,
-          "sector": "未分类"
-        },
-        {
-          "code": "002032",
-          "name": "苏泊尔",
-          "weight": 6.15,
-          "funds": 1,
-          "change": 6.15,
           "sector": "未分类"
         }
       ]
