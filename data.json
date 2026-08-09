@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-08-07T16:12:20.597Z",
+  "fetchedAt": "2026-08-09T04:48:22.237Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 39,
-    "snapshots": 1072
+    "successfulRequests": 40,
+    "snapshots": 1112
   },
   "periods": [
     {
@@ -365,27 +365,19 @@
           "sector": "未分类"
         },
         {
-          "code": "300308",
-          "name": "中际旭创",
-          "weight": 55.14,
-          "funds": 9,
-          "change": 21.37,
-          "sector": "未分类"
-        },
-        {
-          "code": "300502",
-          "name": "新易盛",
-          "weight": 23.25,
-          "funds": 4,
-          "change": 18.36,
-          "sector": "未分类"
-        },
-        {
           "code": "688249",
           "name": "晶合集成",
           "weight": 16.27,
           "funds": 2,
           "change": 16.27,
+          "sector": "未分类"
+        },
+        {
+          "code": "300308",
+          "name": "中际旭创",
+          "weight": 55.14,
+          "funds": 9,
+          "change": 13.46,
           "sector": "未分类"
         },
         {
@@ -397,11 +389,11 @@
           "sector": "未分类"
         },
         {
-          "code": "603259",
-          "name": "药明康德",
-          "weight": 35.09,
-          "funds": 5,
-          "change": 12.31,
+          "code": "300502",
+          "name": "新易盛",
+          "weight": 23.25,
+          "funds": 4,
+          "change": 10.99,
           "sector": "未分类"
         },
         {
@@ -442,6 +434,14 @@
           "weight": 9.14,
           "funds": 2,
           "change": 9.14,
+          "sector": "未分类"
+        },
+        {
+          "code": "603259",
+          "name": "药明康德",
+          "weight": 35.09,
+          "funds": 5,
+          "change": 9.09,
           "sector": "未分类"
         },
         {
