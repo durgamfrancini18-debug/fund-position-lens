@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-08-10T14:33:50.979Z",
+  "fetchedAt": "2026-08-11T04:06:20.895Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
@@ -418,7 +418,7 @@
           "weight": 10.35,
           "funds": 2,
           "change": 10.35,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "688521",
