@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-08-11T23:23:43.784Z",
+  "fetchedAt": "2026-08-12T05:49:36.116Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
     "successfulRequests": 40,
-    "snapshots": 1112
+    "snapshots": 1072
   },
   "periods": [
     {
@@ -397,6 +397,14 @@
           "sector": "未分类"
         },
         {
+          "code": "600887",
+          "name": "伊利股份",
+          "weight": 10.92,
+          "funds": 2,
+          "change": 10.92,
+          "sector": "未分类"
+        },
+        {
           "code": "300661",
           "name": "圣邦股份",
           "weight": 10.83,
@@ -418,7 +426,7 @@
           "weight": 10.35,
           "funds": 2,
           "change": 10.35,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "688521",
@@ -434,6 +442,14 @@
           "weight": 9.14,
           "funds": 2,
           "change": 9.14,
+          "sector": "未分类"
+        },
+        {
+          "code": "000333",
+          "name": "美的集团",
+          "weight": 44.96,
+          "funds": 6,
+          "change": 9.13,
           "sector": "未分类"
         },
         {
@@ -485,27 +501,11 @@
           "sector": "未分类"
         },
         {
-          "code": "002602",
-          "name": "世纪华通",
-          "weight": 6.32,
-          "funds": 1,
-          "change": 6.32,
-          "sector": "未分类"
-        },
-        {
-          "code": "000921",
-          "name": "海信家电",
-          "weight": 6.24,
-          "funds": 1,
-          "change": 6.24,
-          "sector": "未分类"
-        },
-        {
-          "code": "002032",
-          "name": "苏泊尔",
-          "weight": 6.15,
-          "funds": 1,
-          "change": 6.15,
+          "code": "002475",
+          "name": "立讯精密",
+          "weight": 35.36,
+          "funds": 6,
+          "change": 6.98,
           "sector": "未分类"
         }
       ]
