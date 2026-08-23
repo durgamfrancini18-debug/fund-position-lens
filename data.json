@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-08-23T13:01:47.460Z",
+  "fetchedAt": "2026-08-23T13:45:51.537Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 40,
-    "snapshots": 1112
+    "successfulRequests": 39,
+    "snapshots": 1092
   },
   "periods": [
     {
@@ -41,16 +41,8 @@
         {
           "code": "300750",
           "name": "宁德时代",
-          "weight": 38.7,
+          "weight": 37.06,
           "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "688256",
-          "name": "寒武纪",
-          "weight": 37.05,
-          "funds": 8,
           "change": 0,
           "sector": "未分类"
         },
@@ -67,6 +59,14 @@
           "name": "药明康德",
           "weight": 35.09,
           "funds": 5,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "688256",
+          "name": "寒武纪",
+          "weight": 34.7,
+          "funds": 7,
           "change": 0,
           "sector": "未分类"
         },
@@ -208,16 +208,8 @@
         {
           "code": "300750",
           "name": "宁德时代",
-          "weight": 38.7,
+          "weight": 37.06,
           "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "688256",
-          "name": "寒武纪",
-          "weight": 37.05,
-          "funds": 8,
           "change": 0,
           "sector": "未分类"
         },
@@ -234,6 +226,14 @@
           "name": "药明康德",
           "weight": 35.09,
           "funds": 5,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "688256",
+          "name": "寒武纪",
+          "weight": 34.7,
+          "funds": 7,
           "change": 0,
           "sector": "未分类"
         },
@@ -349,19 +349,19 @@
       "subtitle": "公开披露快照 · 年初对比",
       "data": [
         {
-          "code": "688256",
-          "name": "寒武纪",
-          "weight": 37.05,
-          "funds": 8,
-          "change": 24.81,
-          "sector": "未分类"
-        },
-        {
           "code": "688012",
           "name": "中微公司",
           "weight": 29.45,
           "funds": 4,
           "change": 24.29,
+          "sector": "未分类"
+        },
+        {
+          "code": "688256",
+          "name": "寒武纪",
+          "weight": 34.7,
+          "funds": 7,
+          "change": 22.46,
           "sector": "未分类"
         },
         {
