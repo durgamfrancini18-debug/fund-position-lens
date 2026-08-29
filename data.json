@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-08-29T18:29:28.666Z",
+  "fetchedAt": "2026-08-29T21:43:53.158Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
     "successfulRequests": 40,
-    "snapshots": 1112
+    "snapshots": 1072
   },
   "periods": [
     {
@@ -365,6 +365,14 @@
           "sector": "未分类"
         },
         {
+          "code": "300308",
+          "name": "中际旭创",
+          "weight": 55.14,
+          "funds": 9,
+          "change": 17.37,
+          "sector": "未分类"
+        },
+        {
           "code": "688249",
           "name": "晶合集成",
           "weight": 16.27,
@@ -373,11 +381,11 @@
           "sector": "未分类"
         },
         {
-          "code": "300308",
-          "name": "中际旭创",
-          "weight": 55.14,
-          "funds": 9,
-          "change": 13.46,
+          "code": "603259",
+          "name": "药明康德",
+          "weight": 35.09,
+          "funds": 5,
+          "change": 12.76,
           "sector": "未分类"
         },
         {
@@ -437,14 +445,6 @@
           "sector": "未分类"
         },
         {
-          "code": "603259",
-          "name": "药明康德",
-          "weight": 35.09,
-          "funds": 5,
-          "change": 9.09,
-          "sector": "未分类"
-        },
-        {
           "code": "688120",
           "name": "华海清科",
           "weight": 12.96,
@@ -485,6 +485,14 @@
           "sector": "未分类"
         },
         {
+          "code": "000333",
+          "name": "美的集团",
+          "weight": 44.96,
+          "funds": 6,
+          "change": 6.33,
+          "sector": "未分类"
+        },
+        {
           "code": "002602",
           "name": "世纪华通",
           "weight": 6.32,
@@ -498,14 +506,6 @@
           "weight": 6.24,
           "funds": 1,
           "change": 6.24,
-          "sector": "未分类"
-        },
-        {
-          "code": "002032",
-          "name": "苏泊尔",
-          "weight": 6.15,
-          "funds": 1,
-          "change": 6.15,
           "sector": "未分类"
         }
       ]
