@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-09-07T23:29:38.313Z",
+  "fetchedAt": "2026-09-08T09:41:09.413Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
@@ -20,7 +20,7 @@
           "weight": 55.14,
           "funds": 9,
           "change": 0,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "600519",
@@ -187,7 +187,7 @@
           "weight": 55.14,
           "funds": 9,
           "change": 0,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "600519",
@@ -378,7 +378,7 @@
           "weight": 55.14,
           "funds": 9,
           "change": 13.46,
-          "sector": "通信设备"
+          "sector": "未分类"
         },
         {
           "code": "688041",
