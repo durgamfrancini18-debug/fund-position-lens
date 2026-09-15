@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-09-14T23:52:27.243Z",
+  "fetchedAt": "2026-09-15T10:04:43.666Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
@@ -172,7 +172,7 @@
           "weight": 12.96,
           "funds": 4,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         }
       ]
     },
@@ -339,7 +339,7 @@
           "weight": 12.96,
           "funds": 4,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         }
       ]
     },
@@ -450,7 +450,7 @@
           "weight": 12.96,
           "funds": 4,
           "change": 8.92,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "002371",
