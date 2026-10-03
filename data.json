@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-03T19:58:09.373Z",
+  "fetchedAt": "2026-10-03T23:04:01.513Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 40,
-    "snapshots": 1092
+    "successfulRequests": 30,
+    "snapshots": 840
   },
   "periods": [
     {
@@ -17,15 +17,15 @@
         {
           "code": "300308",
           "name": "中际旭创",
-          "weight": 54.6,
-          "funds": 9,
+          "weight": 57.43,
+          "funds": 10,
           "change": 0,
           "sector": "未分类"
         },
         {
           "code": "600519",
           "name": "贵州茅台",
-          "weight": 54.16,
+          "weight": 52.65,
           "funds": 6,
           "change": 0,
           "sector": "未分类"
@@ -33,31 +33,7 @@
         {
           "code": "000333",
           "name": "美的集团",
-          "weight": 44.96,
-          "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "300750",
-          "name": "宁德时代",
-          "weight": 38.7,
-          "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "603259",
-          "name": "药明康德",
-          "weight": 35.93,
-          "funds": 5,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "002475",
-          "name": "立讯精密",
-          "weight": 35.36,
+          "weight": 42.61,
           "funds": 6,
           "change": 0,
           "sector": "未分类"
@@ -65,15 +41,39 @@
         {
           "code": "688256",
           "name": "寒武纪",
-          "weight": 32.79,
-          "funds": 7,
+          "weight": 37.05,
+          "funds": 8,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "300750",
+          "name": "宁德时代",
+          "weight": 36.87,
+          "funds": 5,
           "change": 0,
           "sector": "未分类"
         },
         {
           "code": "600809",
           "name": "山西汾酒",
-          "weight": 30.46,
+          "weight": 34.29,
+          "funds": 4,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "603259",
+          "name": "药明康德",
+          "weight": 30.89,
+          "funds": 5,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "000568",
+          "name": "泸州老窖",
+          "weight": 30.62,
           "funds": 4,
           "change": 0,
           "sector": "未分类"
@@ -87,10 +87,10 @@
           "sector": "未分类"
         },
         {
-          "code": "000568",
-          "name": "泸州老窖",
-          "weight": 24.65,
-          "funds": 3,
+          "code": "002475",
+          "name": "立讯精密",
+          "weight": 28.08,
+          "funds": 5,
           "change": 0,
           "sector": "未分类"
         },
@@ -105,7 +105,7 @@
         {
           "code": "300502",
           "name": "新易盛",
-          "weight": 23.74,
+          "weight": 23.25,
           "funds": 4,
           "change": 0,
           "sector": "未分类"
@@ -119,18 +119,18 @@
           "sector": "未分类"
         },
         {
-          "code": "688981",
-          "name": "中芯国际",
-          "weight": 20.69,
+          "code": "000858",
+          "name": "五粮液",
+          "weight": 22.25,
           "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
         {
-          "code": "000858",
-          "name": "五粮液",
-          "weight": 16.95,
-          "funds": 2,
+          "code": "688981",
+          "name": "中芯国际",
+          "weight": 20.69,
+          "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
@@ -151,26 +151,26 @@
           "sector": "未分类"
         },
         {
-          "code": "600160",
-          "name": "巨化股份",
-          "weight": 14.35,
-          "funds": 2,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
           "code": "000596",
           "name": "古井贡酒",
-          "weight": 13.15,
+          "weight": 15.12,
           "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
         {
-          "code": "688120",
-          "name": "华海清科",
-          "weight": 12.96,
-          "funds": 4,
+          "code": "600160",
+          "name": "巨化股份",
+          "weight": 13.07,
+          "funds": 2,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "601899",
+          "name": "紫金矿业",
+          "weight": 12.71,
+          "funds": 3,
           "change": 0,
           "sector": "未分类"
         }
@@ -184,15 +184,15 @@
         {
           "code": "300308",
           "name": "中际旭创",
-          "weight": 54.6,
-          "funds": 9,
+          "weight": 57.43,
+          "funds": 10,
           "change": 0,
           "sector": "未分类"
         },
         {
           "code": "600519",
           "name": "贵州茅台",
-          "weight": 54.16,
+          "weight": 52.65,
           "funds": 6,
           "change": 0,
           "sector": "未分类"
@@ -200,31 +200,7 @@
         {
           "code": "000333",
           "name": "美的集团",
-          "weight": 44.96,
-          "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "300750",
-          "name": "宁德时代",
-          "weight": 38.7,
-          "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "603259",
-          "name": "药明康德",
-          "weight": 35.93,
-          "funds": 5,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "002475",
-          "name": "立讯精密",
-          "weight": 35.36,
+          "weight": 42.61,
           "funds": 6,
           "change": 0,
           "sector": "未分类"
@@ -232,15 +208,39 @@
         {
           "code": "688256",
           "name": "寒武纪",
-          "weight": 32.79,
-          "funds": 7,
+          "weight": 37.05,
+          "funds": 8,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "300750",
+          "name": "宁德时代",
+          "weight": 36.87,
+          "funds": 5,
           "change": 0,
           "sector": "未分类"
         },
         {
           "code": "600809",
           "name": "山西汾酒",
-          "weight": 30.46,
+          "weight": 34.29,
+          "funds": 4,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "603259",
+          "name": "药明康德",
+          "weight": 30.89,
+          "funds": 5,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "000568",
+          "name": "泸州老窖",
+          "weight": 30.62,
           "funds": 4,
           "change": 0,
           "sector": "未分类"
@@ -254,10 +254,10 @@
           "sector": "未分类"
         },
         {
-          "code": "000568",
-          "name": "泸州老窖",
-          "weight": 24.65,
-          "funds": 3,
+          "code": "002475",
+          "name": "立讯精密",
+          "weight": 28.08,
+          "funds": 5,
           "change": 0,
           "sector": "未分类"
         },
@@ -272,7 +272,7 @@
         {
           "code": "300502",
           "name": "新易盛",
-          "weight": 23.74,
+          "weight": 23.25,
           "funds": 4,
           "change": 0,
           "sector": "未分类"
@@ -286,18 +286,18 @@
           "sector": "未分类"
         },
         {
-          "code": "688981",
-          "name": "中芯国际",
-          "weight": 20.69,
+          "code": "000858",
+          "name": "五粮液",
+          "weight": 22.25,
           "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
         {
-          "code": "000858",
-          "name": "五粮液",
-          "weight": 16.95,
-          "funds": 2,
+          "code": "688981",
+          "name": "中芯国际",
+          "weight": 20.69,
+          "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
@@ -318,26 +318,26 @@
           "sector": "未分类"
         },
         {
-          "code": "600160",
-          "name": "巨化股份",
-          "weight": 14.35,
-          "funds": 2,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
           "code": "000596",
           "name": "古井贡酒",
-          "weight": 13.15,
+          "weight": 15.12,
           "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
         {
-          "code": "688120",
-          "name": "华海清科",
-          "weight": 12.96,
-          "funds": 4,
+          "code": "600160",
+          "name": "巨化股份",
+          "weight": 13.07,
+          "funds": 2,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "601899",
+          "name": "紫金矿业",
+          "weight": 12.71,
+          "funds": 3,
           "change": 0,
           "sector": "未分类"
         }
@@ -349,6 +349,14 @@
       "subtitle": "公开披露快照 · 年初对比",
       "data": [
         {
+          "code": "688256",
+          "name": "寒武纪",
+          "weight": 37.05,
+          "funds": 8,
+          "change": 34.59,
+          "sector": "未分类"
+        },
+        {
           "code": "688012",
           "name": "中微公司",
           "weight": 29.45,
@@ -357,11 +365,35 @@
           "sector": "未分类"
         },
         {
-          "code": "688256",
-          "name": "寒武纪",
-          "weight": 32.79,
-          "funds": 7,
-          "change": 20.55,
+          "code": "688041",
+          "name": "海光信息",
+          "weight": 24.38,
+          "funds": 5,
+          "change": 22.23,
+          "sector": "未分类"
+        },
+        {
+          "code": "688981",
+          "name": "中芯国际",
+          "weight": 20.69,
+          "funds": 3,
+          "change": 20.69,
+          "sector": "未分类"
+        },
+        {
+          "code": "002371",
+          "name": "北方华创",
+          "weight": 22.43,
+          "funds": 4,
+          "change": 19.86,
+          "sector": "未分类"
+        },
+        {
+          "code": "300308",
+          "name": "中际旭创",
+          "weight": 57.43,
+          "funds": 10,
+          "change": 17.94,
           "sector": "未分类"
         },
         {
@@ -373,27 +405,27 @@
           "sector": "未分类"
         },
         {
-          "code": "300308",
-          "name": "中际旭创",
-          "weight": 54.6,
-          "funds": 9,
-          "change": 12.92,
+          "code": "603259",
+          "name": "药明康德",
+          "weight": 30.89,
+          "funds": 5,
+          "change": 15,
           "sector": "未分类"
         },
         {
-          "code": "688041",
-          "name": "海光信息",
-          "weight": 24.38,
-          "funds": 5,
-          "change": 12.46,
+          "code": "688347",
+          "name": "华虹宏力",
+          "weight": 16.68,
+          "funds": 3,
+          "change": 14.11,
           "sector": "未分类"
         },
         {
           "code": "300502",
           "name": "新易盛",
-          "weight": 23.74,
+          "weight": 23.25,
           "funds": 4,
-          "change": 11.48,
+          "change": 13.62,
           "sector": "未分类"
         },
         {
@@ -405,27 +437,27 @@
           "sector": "未分类"
         },
         {
-          "code": "688981",
-          "name": "中芯国际",
-          "weight": 20.69,
-          "funds": 3,
-          "change": 10.69,
+          "code": "002821",
+          "name": "凯莱英",
+          "weight": 10.57,
+          "funds": 1,
+          "change": 10.57,
           "sector": "未分类"
         },
         {
-          "code": "688536",
-          "name": "思瑞浦",
-          "weight": 10.35,
-          "funds": 2,
-          "change": 10.35,
+          "code": "688506",
+          "name": "百利天恒",
+          "weight": 9.89,
+          "funds": 1,
+          "change": 9.89,
           "sector": "未分类"
         },
         {
-          "code": "603259",
-          "name": "药明康德",
-          "weight": 35.93,
-          "funds": 5,
-          "change": 9.93,
+          "code": "600276",
+          "name": "恒瑞医药",
+          "weight": 9.86,
+          "funds": 1,
+          "change": 9.86,
           "sector": "未分类"
         },
         {
@@ -437,75 +469,43 @@
           "sector": "未分类"
         },
         {
-          "code": "688120",
-          "name": "华海清科",
-          "weight": 12.96,
-          "funds": 4,
-          "change": 8.92,
+          "code": "601138",
+          "name": "工业富联",
+          "weight": 9.14,
+          "funds": 2,
+          "change": 9.14,
           "sector": "未分类"
         },
         {
-          "code": "002371",
-          "name": "北方华创",
-          "weight": 22.43,
-          "funds": 4,
-          "change": 8.01,
-          "sector": "未分类"
-        },
-        {
-          "code": "300604",
-          "name": "长川科技",
-          "weight": 7.98,
+          "code": "002653",
+          "name": "海思科",
+          "weight": 8.62,
           "funds": 1,
-          "change": 7.98,
+          "change": 8.62,
           "sector": "未分类"
         },
         {
-          "code": "002594",
-          "name": "比亚迪",
-          "weight": 7.96,
+          "code": "688536",
+          "name": "思瑞浦",
+          "weight": 8.58,
           "funds": 1,
-          "change": 7.96,
+          "change": 8.58,
           "sector": "未分类"
         },
         {
-          "code": "000725",
-          "name": "京东方A",
-          "weight": 7.15,
+          "code": "300759",
+          "name": "康龙化成",
+          "weight": 8.45,
           "funds": 1,
-          "change": 7.15,
+          "change": 8.45,
           "sector": "未分类"
         },
         {
-          "code": "002602",
-          "name": "世纪华通",
-          "weight": 6.32,
+          "code": "002422",
+          "name": "科伦药业",
+          "weight": 8.14,
           "funds": 1,
-          "change": 6.32,
-          "sector": "未分类"
-        },
-        {
-          "code": "000921",
-          "name": "海信家电",
-          "weight": 6.24,
-          "funds": 1,
-          "change": 6.24,
-          "sector": "未分类"
-        },
-        {
-          "code": "002032",
-          "name": "苏泊尔",
-          "weight": 6.15,
-          "funds": 1,
-          "change": 6.15,
-          "sector": "未分类"
-        },
-        {
-          "code": "600066",
-          "name": "宇通客车",
-          "weight": 6.14,
-          "funds": 1,
-          "change": 6.14,
+          "change": 8.14,
           "sector": "未分类"
         }
       ]
