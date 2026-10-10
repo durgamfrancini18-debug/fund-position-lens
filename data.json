@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-10T07:06:56.151Z",
+  "fetchedAt": "2026-10-10T18:35:32.900Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 39,
-    "snapshots": 1102
+    "successfulRequests": 40,
+    "snapshots": 1112
   },
   "periods": [
     {
@@ -15,18 +15,18 @@
       "subtitle": "公开披露快照 · 周度对比",
       "data": [
         {
-          "code": "600519",
-          "name": "贵州茅台",
-          "weight": 58.44,
-          "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
           "code": "300308",
           "name": "中际旭创",
           "weight": 55.14,
           "funds": 9,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "600519",
+          "name": "贵州茅台",
+          "weight": 54.16,
+          "funds": 6,
           "change": 0,
           "sector": "未分类"
         },
@@ -43,14 +43,6 @@
           "name": "宁德时代",
           "weight": 38.7,
           "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "600809",
-          "name": "山西汾酒",
-          "weight": 37.33,
-          "funds": 4,
           "change": 0,
           "sector": "未分类"
         },
@@ -79,10 +71,10 @@
           "sector": "未分类"
         },
         {
-          "code": "000568",
-          "name": "泸州老窖",
-          "weight": 29.6,
-          "funds": 3,
+          "code": "600809",
+          "name": "山西汾酒",
+          "weight": 30.46,
+          "funds": 4,
           "change": 0,
           "sector": "未分类"
         },
@@ -95,18 +87,18 @@
           "sector": "未分类"
         },
         {
-          "code": "688041",
-          "name": "海光信息",
-          "weight": 24.38,
-          "funds": 5,
+          "code": "000568",
+          "name": "泸州老窖",
+          "weight": 24.65,
+          "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
         {
-          "code": "000858",
-          "name": "五粮液",
-          "weight": 23.85,
-          "funds": 2,
+          "code": "688041",
+          "name": "海光信息",
+          "weight": 24.38,
+          "funds": 5,
           "change": 0,
           "sector": "未分类"
         },
@@ -131,6 +123,14 @@
           "name": "中芯国际",
           "weight": 20.69,
           "funds": 3,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "000858",
+          "name": "五粮液",
+          "weight": 16.95,
+          "funds": 2,
           "change": 0,
           "sector": "未分类"
         },
@@ -182,18 +182,18 @@
       "subtitle": "公开披露快照 · 月度对比",
       "data": [
         {
-          "code": "600519",
-          "name": "贵州茅台",
-          "weight": 58.44,
-          "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
           "code": "300308",
           "name": "中际旭创",
           "weight": 55.14,
           "funds": 9,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "600519",
+          "name": "贵州茅台",
+          "weight": 54.16,
+          "funds": 6,
           "change": 0,
           "sector": "未分类"
         },
@@ -210,14 +210,6 @@
           "name": "宁德时代",
           "weight": 38.7,
           "funds": 6,
-          "change": 0,
-          "sector": "未分类"
-        },
-        {
-          "code": "600809",
-          "name": "山西汾酒",
-          "weight": 37.33,
-          "funds": 4,
           "change": 0,
           "sector": "未分类"
         },
@@ -246,10 +238,10 @@
           "sector": "未分类"
         },
         {
-          "code": "000568",
-          "name": "泸州老窖",
-          "weight": 29.6,
-          "funds": 3,
+          "code": "600809",
+          "name": "山西汾酒",
+          "weight": 30.46,
+          "funds": 4,
           "change": 0,
           "sector": "未分类"
         },
@@ -262,18 +254,18 @@
           "sector": "未分类"
         },
         {
-          "code": "688041",
-          "name": "海光信息",
-          "weight": 24.38,
-          "funds": 5,
+          "code": "000568",
+          "name": "泸州老窖",
+          "weight": 24.65,
+          "funds": 3,
           "change": 0,
           "sector": "未分类"
         },
         {
-          "code": "000858",
-          "name": "五粮液",
-          "weight": 23.85,
-          "funds": 2,
+          "code": "688041",
+          "name": "海光信息",
+          "weight": 24.38,
+          "funds": 5,
           "change": 0,
           "sector": "未分类"
         },
@@ -298,6 +290,14 @@
           "name": "中芯国际",
           "weight": 20.69,
           "funds": 3,
+          "change": 0,
+          "sector": "未分类"
+        },
+        {
+          "code": "000858",
+          "name": "五粮液",
+          "weight": 16.95,
+          "funds": 2,
           "change": 0,
           "sector": "未分类"
         },
