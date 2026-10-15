@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-15T13:25:57.388Z",
+  "fetchedAt": "2026-10-15T22:17:44.459Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
     "successfulRequests": 40,
-    "snapshots": 1092
+    "snapshots": 1112
   },
   "periods": [
     {
@@ -65,7 +65,7 @@
         {
           "code": "603259",
           "name": "药明康德",
-          "weight": 35.35,
+          "weight": 35.09,
           "funds": 5,
           "change": 0,
           "sector": "未分类"
@@ -232,7 +232,7 @@
         {
           "code": "603259",
           "name": "药明康德",
-          "weight": 35.35,
+          "weight": 35.09,
           "funds": 5,
           "change": 0,
           "sector": "未分类"
@@ -429,19 +429,19 @@
           "sector": "未分类"
         },
         {
-          "code": "603259",
-          "name": "药明康德",
-          "weight": 35.35,
-          "funds": 5,
-          "change": 9.35,
-          "sector": "未分类"
-        },
-        {
           "code": "601138",
           "name": "工业富联",
           "weight": 9.14,
           "funds": 2,
           "change": 9.14,
+          "sector": "未分类"
+        },
+        {
+          "code": "603259",
+          "name": "药明康德",
+          "weight": 35.09,
+          "funds": 5,
+          "change": 9.09,
           "sector": "未分类"
         },
         {
