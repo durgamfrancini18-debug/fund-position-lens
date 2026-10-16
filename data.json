@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-15T22:17:44.459Z",
+  "fetchedAt": "2026-10-16T01:20:15.227Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 40,
-    "snapshots": 1112
+    "successfulRequests": 39,
+    "snapshots": 1072
   },
   "periods": [
     {
@@ -116,7 +116,7 @@
           "weight": 22.43,
           "funds": 4,
           "change": 0,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "688981",
@@ -172,7 +172,7 @@
           "weight": 12.96,
           "funds": 4,
           "change": 0,
-          "sector": "半导体"
+          "sector": "未分类"
         }
       ]
     },
@@ -283,7 +283,7 @@
           "weight": 22.43,
           "funds": 4,
           "change": 0,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "688981",
@@ -339,7 +339,7 @@
           "weight": 12.96,
           "funds": 4,
           "change": 0,
-          "sector": "半导体"
+          "sector": "未分类"
         }
       ]
     },
@@ -421,6 +421,14 @@
           "sector": "未分类"
         },
         {
+          "code": "000333",
+          "name": "美的集团",
+          "weight": 44.96,
+          "funds": 6,
+          "change": 10.21,
+          "sector": "未分类"
+        },
+        {
           "code": "688521",
           "name": "芯原股份",
           "weight": 9.37,
@@ -450,7 +458,7 @@
           "weight": 12.96,
           "funds": 4,
           "change": 8.92,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "002371",
@@ -458,7 +466,7 @@
           "weight": 22.43,
           "funds": 4,
           "change": 8.01,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "300604",
@@ -477,6 +485,14 @@
           "sector": "未分类"
         },
         {
+          "code": "600660",
+          "name": "福耀玻璃",
+          "weight": 7.86,
+          "funds": 1,
+          "change": 7.86,
+          "sector": "未分类"
+        },
+        {
           "code": "000725",
           "name": "京东方A",
           "weight": 7.15,
@@ -490,22 +506,6 @@
           "weight": 6.32,
           "funds": 1,
           "change": 6.32,
-          "sector": "未分类"
-        },
-        {
-          "code": "000921",
-          "name": "海信家电",
-          "weight": 6.24,
-          "funds": 1,
-          "change": 6.24,
-          "sector": "未分类"
-        },
-        {
-          "code": "002032",
-          "name": "苏泊尔",
-          "weight": 6.15,
-          "funds": 1,
-          "change": 6.15,
           "sector": "未分类"
         }
       ]
