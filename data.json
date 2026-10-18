@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-18T05:53:50.718Z",
+  "fetchedAt": "2026-10-18T11:04:25.627Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 39,
-    "snapshots": 1102
+    "successfulRequests": 37,
+    "snapshots": 1022
   },
   "periods": [
     {
@@ -377,7 +377,15 @@
           "name": "中际旭创",
           "weight": 55.14,
           "funds": 9,
-          "change": 13.46,
+          "change": 15,
+          "sector": "未分类"
+        },
+        {
+          "code": "603259",
+          "name": "药明康德",
+          "weight": 35.09,
+          "funds": 5,
+          "change": 14.78,
           "sector": "未分类"
         },
         {
@@ -386,6 +394,14 @@
           "weight": 24.38,
           "funds": 5,
           "change": 12.46,
+          "sector": "未分类"
+        },
+        {
+          "code": "688120",
+          "name": "华海清科",
+          "weight": 12.96,
+          "funds": 4,
+          "change": 11.01,
           "sector": "未分类"
         },
         {
@@ -437,19 +453,11 @@
           "sector": "未分类"
         },
         {
-          "code": "603259",
-          "name": "药明康德",
-          "weight": 35.09,
-          "funds": 5,
-          "change": 9.09,
-          "sector": "未分类"
-        },
-        {
-          "code": "688120",
-          "name": "华海清科",
-          "weight": 12.96,
-          "funds": 4,
-          "change": 8.92,
+          "code": "000333",
+          "name": "美的集团",
+          "weight": 44.96,
+          "funds": 6,
+          "change": 8.43,
           "sector": "未分类"
         },
         {
@@ -477,6 +485,14 @@
           "sector": "未分类"
         },
         {
+          "code": "002311",
+          "name": "海大集团",
+          "weight": 7.17,
+          "funds": 1,
+          "change": 7.17,
+          "sector": "未分类"
+        },
+        {
           "code": "000725",
           "name": "京东方A",
           "weight": 7.15,
@@ -490,22 +506,6 @@
           "weight": 6.32,
           "funds": 1,
           "change": 6.32,
-          "sector": "未分类"
-        },
-        {
-          "code": "000921",
-          "name": "海信家电",
-          "weight": 6.24,
-          "funds": 1,
-          "change": 6.24,
-          "sector": "未分类"
-        },
-        {
-          "code": "002032",
-          "name": "苏泊尔",
-          "weight": 6.15,
-          "funds": 1,
-          "change": 6.15,
           "sector": "未分类"
         }
       ]
