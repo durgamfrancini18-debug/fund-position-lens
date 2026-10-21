@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-21T15:13:47.986Z",
+  "fetchedAt": "2026-10-21T19:18:18.184Z",
   "latestDisclosure": "2026-06-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 40,
-    "snapshots": 1112
+    "successfulRequests": 39,
+    "snapshots": 1072
   },
   "periods": [
     {
@@ -377,7 +377,7 @@
           "name": "中际旭创",
           "weight": 55.14,
           "funds": 9,
-          "change": 13.46,
+          "change": 15,
           "sector": "未分类"
         },
         {
@@ -386,6 +386,14 @@
           "weight": 24.38,
           "funds": 5,
           "change": 12.46,
+          "sector": "未分类"
+        },
+        {
+          "code": "688120",
+          "name": "华海清科",
+          "weight": 12.96,
+          "funds": 4,
+          "change": 11.01,
           "sector": "未分类"
         },
         {
@@ -442,14 +450,6 @@
           "weight": 35.09,
           "funds": 5,
           "change": 9.09,
-          "sector": "未分类"
-        },
-        {
-          "code": "688120",
-          "name": "华海清科",
-          "weight": 12.96,
-          "funds": 4,
-          "change": 8.92,
           "sector": "未分类"
         },
         {
