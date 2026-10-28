@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-28T01:21:31.481Z",
+  "fetchedAt": "2026-10-28T08:31:35.937Z",
   "latestDisclosure": "2026-09-30",
   "coverage": {
     "funds": 20,
@@ -60,7 +60,7 @@
           "weight": 26,
           "funds": 6,
           "change": 0,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "000568",
@@ -92,7 +92,7 @@
           "weight": 17.68,
           "funds": 4,
           "change": 0,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "300308",
@@ -100,7 +100,7 @@
           "weight": 16.94,
           "funds": 4,
           "change": 0,
-          "sector": "未分类"
+          "sector": "通信设备"
         },
         {
           "code": "000596",
@@ -124,7 +124,7 @@
           "weight": 16.03,
           "funds": 3,
           "change": 0,
-          "sector": "工业金属"
+          "sector": "未分类"
         },
         {
           "code": "300661",
@@ -140,7 +140,7 @@
           "weight": 15.57,
           "funds": 3,
           "change": 0,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "688249",
@@ -386,7 +386,7 @@
           "weight": 26,
           "funds": 6,
           "change": 13.76,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "688536",
@@ -410,7 +410,7 @@
           "weight": 15.57,
           "funds": 3,
           "change": 10.41,
-          "sector": "半导体"
+          "sector": "未分类"
         },
         {
           "code": "002714",
@@ -506,7 +506,7 @@
           "weight": 17.68,
           "funds": 4,
           "change": 5.76,
-          "sector": "半导体"
+          "sector": "未分类"
         }
       ]
     }
