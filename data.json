@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-10-28T08:31:35.937Z",
+  "fetchedAt": "2026-10-28T16:01:53.552Z",
   "latestDisclosure": "2026-09-30",
   "coverage": {
     "funds": 20,
     "successfulRequests": 40,
-    "snapshots": 1299
+    "snapshots": 1259
   },
   "periods": [
     {
@@ -365,6 +365,14 @@
           "sector": "未分类"
         },
         {
+          "code": "688256",
+          "name": "寒武纪",
+          "weight": 26,
+          "funds": 6,
+          "change": 16.22,
+          "sector": "未分类"
+        },
+        {
           "code": "300661",
           "name": "圣邦股份",
           "weight": 15.62,
@@ -381,20 +389,20 @@
           "sector": "未分类"
         },
         {
-          "code": "688256",
-          "name": "寒武纪",
-          "weight": 26,
-          "funds": 6,
-          "change": 13.76,
-          "sector": "未分类"
-        },
-        {
           "code": "688536",
           "name": "思瑞浦",
           "weight": 12.23,
           "funds": 2,
           "change": 12.23,
           "sector": "半导体"
+        },
+        {
+          "code": "300502",
+          "name": "新易盛",
+          "weight": 20.92,
+          "funds": 5,
+          "change": 10.92,
+          "sector": "未分类"
         },
         {
           "code": "601138",
@@ -429,14 +437,6 @@
           "sector": "未分类"
         },
         {
-          "code": "300502",
-          "name": "新易盛",
-          "weight": 20.92,
-          "funds": 5,
-          "change": 8.66,
-          "sector": "未分类"
-        },
-        {
           "code": "002594",
           "name": "比亚迪",
           "weight": 8.64,
@@ -450,6 +450,14 @@
           "weight": 8.55,
           "funds": 2,
           "change": 8.55,
+          "sector": "未分类"
+        },
+        {
+          "code": "688041",
+          "name": "海光信息",
+          "weight": 17.68,
+          "funds": 4,
+          "change": 7.91,
           "sector": "未分类"
         },
         {
@@ -498,14 +506,6 @@
           "weight": 6.09,
           "funds": 1,
           "change": 6.09,
-          "sector": "未分类"
-        },
-        {
-          "code": "688041",
-          "name": "海光信息",
-          "weight": 17.68,
-          "funds": 4,
-          "change": 5.76,
           "sector": "未分类"
         }
       ]
