@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-11-03T23:58:59.680Z",
+  "fetchedAt": "2026-11-04T15:25:40.187Z",
   "latestDisclosure": "2026-09-30",
   "coverage": {
     "funds": 20,
@@ -116,7 +116,7 @@
           "weight": 16.56,
           "funds": 3,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "601899",
@@ -140,7 +140,7 @@
           "weight": 15.57,
           "funds": 3,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "688249",
@@ -164,7 +164,7 @@
           "weight": 13.12,
           "funds": 2,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "002371",
@@ -283,7 +283,7 @@
           "weight": 16.56,
           "funds": 3,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "601899",
@@ -307,7 +307,7 @@
           "weight": 15.57,
           "funds": 3,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "688249",
@@ -331,7 +331,7 @@
           "weight": 13.12,
           "funds": 2,
           "change": 0,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "002371",
@@ -362,7 +362,7 @@
           "weight": 16.56,
           "funds": 3,
           "change": 16.56,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "300661",
@@ -394,7 +394,7 @@
           "weight": 12.23,
           "funds": 2,
           "change": 12.23,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "601138",
@@ -410,7 +410,7 @@
           "weight": 15.57,
           "funds": 3,
           "change": 10.41,
-          "sector": "未分类"
+          "sector": "半导体"
         },
         {
           "code": "002714",
