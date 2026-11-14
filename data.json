@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-11-14T03:14:49.476Z",
+  "fetchedAt": "2026-11-14T10:31:57.086Z",
   "latestDisclosure": "2026-09-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 38,
-    "snapshots": 1219
+    "successfulRequests": 40,
+    "snapshots": 1299
   },
   "periods": [
     {
@@ -353,7 +353,7 @@
           "name": "药明康德",
           "weight": 44.38,
           "funds": 7,
-          "change": 21.6,
+          "change": 18.38,
           "sector": "未分类"
         },
         {
@@ -362,14 +362,6 @@
           "weight": 16.56,
           "funds": 3,
           "change": 16.56,
-          "sector": "未分类"
-        },
-        {
-          "code": "300502",
-          "name": "新易盛",
-          "weight": 20.92,
-          "funds": 5,
-          "change": 16.03,
           "sector": "未分类"
         },
         {
@@ -397,14 +389,6 @@
           "sector": "未分类"
         },
         {
-          "code": "002714",
-          "name": "牧原股份",
-          "weight": 12.29,
-          "funds": 3,
-          "change": 12.29,
-          "sector": "未分类"
-        },
-        {
           "code": "688536",
           "name": "思瑞浦",
           "weight": 12.23,
@@ -429,11 +413,27 @@
           "sector": "未分类"
         },
         {
+          "code": "002714",
+          "name": "牧原股份",
+          "weight": 12.29,
+          "funds": 3,
+          "change": 10.12,
+          "sector": "未分类"
+        },
+        {
           "code": "601918",
           "name": "新集能源",
           "weight": 9.22,
           "funds": 1,
           "change": 9.22,
+          "sector": "未分类"
+        },
+        {
+          "code": "300502",
+          "name": "新易盛",
+          "weight": 20.92,
+          "funds": 5,
+          "change": 8.66,
           "sector": "未分类"
         },
         {
