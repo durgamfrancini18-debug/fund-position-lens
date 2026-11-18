@@ -1,12 +1,12 @@
 {
   "mode": "live",
   "source": "天天基金公开披露 · 东方财富行业分类",
-  "fetchedAt": "2026-11-18T13:57:50.937Z",
+  "fetchedAt": "2026-11-18T21:56:26.651Z",
   "latestDisclosure": "2026-09-30",
   "coverage": {
     "funds": 20,
-    "successfulRequests": 40,
-    "snapshots": 1299
+    "successfulRequests": 39,
+    "snapshots": 1259
   },
   "periods": [
     {
